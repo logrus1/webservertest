@@ -1,7 +1,7 @@
 # webservertest
 
 Script initilize_webserver.sh is a rudamentary script to setup a linux server with nginx and load a default template for a simple webpage
-This has been tested on Ubuntu 20.20 and Centos 8 
+This has been tested on Ubuntu 20.20 and Centos 8 and must be run with root access.
 
 Script will currently do the following:
 1. set the hostname to what is specified in the SERVERNAME variable 
